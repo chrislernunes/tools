@@ -1,7 +1,5 @@
 # Tools
 
-Live site: [chrislernunes.github.io/tools](https://chrislernunes.github.io/tools/)
-
 A collection of interactive quantitative finance calculators and visualizers. Explore option pricing, portfolio risk, probability, statistical models, and more through a minimal interface. `index.html` is the GitHub Pages entry. Every tool opens on a synthetic worked example.
 
 ## Calculators
