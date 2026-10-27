@@ -77,13 +77,30 @@ aside{position:sticky;top:0;z-index:5;max-height:none;border-right:0;border-bott
 main{padding:16px 14px 48px}.two{grid-template-columns:1fr}
 }
 </style></head><body>
-<div class="app"><aside>
-<div class="brand"><div class="mark">QT</div><div><h1>Quant Tools</h1></div>
-<div class="tabs" id="tabs"></div>
-<p class="blurb" id="blurb"></p>
-<nav id="idx"></nav>
-<p class="aside-note">Every tool opens on a worked example. Replace the inputs with your own numbers. Educational only, not investment advice.</p>
-</aside>
+
+<div class="app">
+  <aside>
+    <div class="brand">
+      <div class="mark">QT</div>
+      <div>
+        <h1>Quant Tools</h1>
+        <p class="tag">QUANTITATIVE FINANCE</p>
+      </div>
+    </div>
+
+    <div class="tabs" id="tabs"></div>
+    <p class="blurb" id="blurb"></p>
+    <nav id="idx"></nav>
+
+    <p class="aside-note">
+      Every tool opens on a worked example. Replace the inputs with your own numbers.
+      Educational only, not investment advice.
+    </p>
+  </aside>
+
+  <main id="main"></main>
+</div>
+
 <main id="main"></main></div>
 <script>
 const $=s=>document.querySelector(s), N=x=>x;
