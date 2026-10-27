@@ -30,6 +30,3 @@ A collection of interactive quantitative finance calculators and visualizers. Ex
 
 For educational and research purposes only. Outputs depend on model assumptions and user-provided inputs and should not be treated as investment advice.
 
-## License
-
-No license has been specified. All rights remain with the respective rights holder unless a license is added.
